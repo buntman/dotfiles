@@ -1,0 +1,11 @@
+[user]
+	name = buntman
+	email = 148082762+buntman@users.noreply.github.com
+[core]
+	editor = vim
+[alias]
+	stats = status -s
+	co = checkout
+	br = branch
+	ci = commit
+	sw = switch
