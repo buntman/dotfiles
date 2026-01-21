@@ -34,7 +34,7 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-alias activate='source .venv/bin/activate'
+alias activate-tracker='source .venv/bin/activate'
 alias vim=nvim
 alias xdg-open=open
 alias start-mysql='sudo systemctl start mysql'
